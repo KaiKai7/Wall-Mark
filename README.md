@@ -1,5 +1,4 @@
 
-![wall mark tear down the paywall](https://github.com/KaiKai7/Wall-Mark/assets/87836320/11042a22-0c43-4985-966f-82c5d7bd735e)
 
 #     Wall Mark
 ##    Tear Down The Paywall !
