@@ -1,4 +1,6 @@
-# Wall-Mark
+# Wall Mark
+## Tear Down The Paywall !
+
 * Uses already existing sites to read paywall articles.
 
 * Use the example sites already included as examples.
