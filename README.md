@@ -1,5 +1,6 @@
-#  Wall Mark
-## Tear Down The Paywall !
+#     Wall Mark
+##    Tear Down The Paywall !
+###   Assists you in reading paywall articles on the internet.
 
 * Uses already existing sites to read paywall articles.
 
