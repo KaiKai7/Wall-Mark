@@ -52,6 +52,8 @@ This means that if the site listed becomes inactive, the link can be changed.
 
 If you find better links than the ones listed, then feel free to change them to your liking.
 
+A separate page has been created to list the default sites found in the app, as well as to list new ones as found.
+
 
 
 
