@@ -42,6 +42,17 @@ Enter or paste the article link in the URL field.
 * If the link was successful, you will be able to view the article.
 
 * If the link was not successful, then go back to the app and try one of the other five remaining links.
+  
+
+## Adding or Changing Links
+
+The links that are listed in the app are able to be changed or edited.
+
+This means that if the site listed becomes inactive, the link can be changed.
+
+If you find better links than the ones listed, then feel free to change them to your liking.
+
+
 
 
 
