@@ -1,3 +1,5 @@
+![Wall Mark logo](https://github.com/KaiKai7/Wall-Mark/assets/87836320/762f0e04-20e1-40a8-a369-4a0af4cab5e1)
+
 #     Wall Mark
 ##    Tear Down The Paywall !
 
