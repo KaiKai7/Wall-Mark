@@ -19,5 +19,8 @@ You dont need an account for this app, and the app does not use the information 
 
 ## Instructions For Use
 
+### Step 1
+
+Enter or paste the article link in the URL field.
 
 
