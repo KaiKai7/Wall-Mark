@@ -23,4 +23,27 @@ You dont need an account for this app, and the app does not use the information 
 
 Enter or paste the article link in the URL field.
 
+### Step 2
+
+Decide which link you will use from the six listed. 
+
+Then press the "go" button directly to the right of the link chosen.
+
+Pressing the "go" button will copy the created link to the clipboard.
+
+You can also now share this link.
+
+### Step 3
+
+The easiest way to now use this link to view the paywalled article, is to share to your browser.
+
+Sharing to the browser will then attempt to open the article with the link chosen.
+
+If the link was successful, you will be able to view the article.
+
+If the link was not successful, then go back to the app and try one of the other five remaining links.
+
+
+
+
 
