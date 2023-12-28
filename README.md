@@ -1,6 +1,7 @@
 #     Wall Mark
 ##    Tear Down The Paywall !
-###   Assists you in reading paywall articles on the internet.
+
+###   A simple app that ssists you in reading paywall articles on the internet.
 
 * Uses already existing sites to read paywall articles.
 
