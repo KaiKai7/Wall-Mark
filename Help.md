@@ -3,7 +3,6 @@
 #    Help
 
 ##  Overview
-
 ###  Wall Mark is a simple app that will create a link to view articles behind paywalls.
 
 The app uses pre existing sites from the web, to create a link to read articles.
