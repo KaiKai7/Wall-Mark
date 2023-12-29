@@ -15,6 +15,8 @@
 
 * No account needed.
 
+* No personal information needed.
+
 * Quickly add or change sites used.
 
 * Use with "saved for later" bookmarks at your leisure. Or just share the site you are trying to read.
