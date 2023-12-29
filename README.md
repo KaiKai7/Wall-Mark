@@ -1,4 +1,4 @@
-![Wall Mark logo resized](https://github.com/KaiKai7/Wall-Mark/assets/87836320/7be88846-f654-4f3f-b3ef-a6701118335e)
+![wall mark tear down the paywall resized](https://github.com/KaiKai7/Wall-Mark/assets/87836320/0b604bed-7178-4ce1-a761-eba07302ae11)
 
 
 #     Wall Mark
