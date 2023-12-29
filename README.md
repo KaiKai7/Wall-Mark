@@ -1,4 +1,4 @@
-![Wall Mark logo resized](https://github.com/KaiKai7/Wall-Mark/assets/87836320/3cb4a755-68f4-4044-9fce-c27db1b81970)
+![Wall Mark logo resized](https://github.com/KaiKai7/Wall-Mark/assets/87836320/7be88846-f654-4f3f-b3ef-a6701118335e)
 
 
 #     Wall Mark
