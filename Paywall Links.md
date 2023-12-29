@@ -2,21 +2,21 @@
 
 ## Default App Paywall Sites
 
-•12ft.io
+• https://12ft.io
 Works by prepending to the target URL
 
-•https://www.removepaywall.com/
+• https://www.removepaywall.com/
 Works by prepending to the target URL
 
-•https://www.smry.ai/
+• https://www.smry.ai/
 Works by prepending to the target URL
 
-•https://archive.is/
+• https://archive.is/
 Works by prepending to the target URL
 
-•https://1ft.io/
+• https://1ft.io/
 Works by prepending to the target URL
 
-•https://leiaisso.net/
+• https://leiaisso.net/
 Works by prepending to the target URL
 
