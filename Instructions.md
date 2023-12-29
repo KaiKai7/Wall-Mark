@@ -1,6 +1,6 @@
 ![Wall Mark logo resized](https://github.com/KaiKai7/Wall-Mark/assets/87836320/dab1e52f-b468-44e4-87b5-d85974b27058)
 
-#    Help
+#    Instructions
 
 ##  Overview
 
