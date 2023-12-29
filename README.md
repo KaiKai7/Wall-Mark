@@ -1,9 +1,6 @@
 ![wall mark tear down the paywall resized](https://github.com/KaiKai7/Wall-Mark/assets/87836320/0b604bed-7178-4ce1-a761-eba07302ae11)
 
 
-#     Wall Mark
-##    Tear Down The Paywall !
-
 ###   A simple app that ssists you in reading paywall articles on the internet.
 
 * Uses already existing sites to read paywall articles.
