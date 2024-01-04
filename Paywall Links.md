@@ -6,7 +6,9 @@
 
 Due to reasons beyond the control of the developer, these links may become inactive. But the app has the abiltity to let the user update the site links.
 
-New links will be listed here, as they are found/needed.
+You can replace the built-in links with custom links, but upon restart of the app, the links will revert to default.
+
+New links will be listed here as they are found/needed. And old links will be updated with version changes.
 
 Feel free to contact me or leave a comment regarding new, old or expired links.
 
