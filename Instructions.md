@@ -4,7 +4,7 @@
 
 ##  Overview
 
-###  Wall Mark is a simple app that will create a link to view articles behind paywalls.
+###  Wall Mark is a simple app that will create a link to view articles behind paywalls
 
 The app uses pre existing sites from the web, to create a link to read articles.
 
@@ -15,6 +15,12 @@ The link to read the article is copied to the clipboard when the corrosponding b
 Link can be shared to a browser to view, no proprietary viewer or account to view.
 
 You dont need an account for this app, and the app does not use the information entered by the user.
+
+###  Lite version versus the Paid version
+
+The Lite version of Wall Mark is an ad sponsored version of the app. A version with ads helps me as a developer, and also enables me to offer a version free of charge.
+The Paid version does not have ads and is the full the version.
+New features may be offered in the paid version in the future.
 
 
 ## Instructions For Use
