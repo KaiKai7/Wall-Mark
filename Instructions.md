@@ -37,7 +37,7 @@ Typing only example.com will result in an error due to improper formatting.
 
 * Pressing the "go" button will copy the created link to the clipboard.
 
-* You can also now share this link.
+* You can also now share this link to other apps.
 
 ### Step 3
 
@@ -48,6 +48,8 @@ Typing only example.com will result in an error due to improper formatting.
 * If the link was successful, you will be able to view the article.
 
 * If the link was not successful, then go back to the app and try one of the other five remaining links.
+
+* If trying all available link options the site does not open correctly, then it is probably due to the way the site is coded and Wall Mark will not work.
   
 
 ## Adding or Changing Links
