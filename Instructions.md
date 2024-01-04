@@ -23,6 +23,12 @@ You dont need an account for this app, and the app does not use the information 
 
 Enter or paste the article link in the URL field.
 
+If you are manually entering a url, then make sure to use the full url.
+
+For example, make sure to include the complete url like this https://example.com.
+
+Typing only example.com will result in an error due to improper formatting.
+
 ### Step 2
 
 * Decide which link you will use from the six listed. 
