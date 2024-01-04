@@ -28,7 +28,7 @@
 
 
 
-###  If share to browser, then the link will open in the site selected
+###  If share to browser, then the link will open in the site selected. In this case example.com was used for demonstrational purposes.
 
 ![Wall Mark screenshot 3 of 3 resize](https://github.com/KaiKai7/Wall-Mark/assets/87836320/a92bc5fb-5431-4db6-a411-d95f74311e4c)
 
