@@ -33,9 +33,9 @@ Typing only example.com will result in an error due to improper formatting.
 
 * Decide which link you will use from the six listed. 
 
-* Then press the "go" button directly to the right of the link chosen.
+* Then press the "copy" button directly to the right of the link chosen.
 
-* Pressing the "go" button will copy the created link to the clipboard.
+* Pressing the "copy" button will copy the created link to the clipboard.
 
 * You can also now share this link to other apps.
 
