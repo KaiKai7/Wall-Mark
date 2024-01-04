@@ -54,13 +54,17 @@ Typing only example.com will result in an error due to improper formatting.
 
 ## Adding or Changing Links
 
-The links that are listed in the app are able to be changed or edited.
+The links that are listed in the app can be changed or edited.
 
 This means that if the site listed becomes inactive, the link can be changed.
 
-If you find better links than the ones listed, then feel free to change them to your liking.
+The changes you make are not persistant and will revert back to the default when the app is restarted. This way you do not have to remember what it used to be if you wished to revert.
+
+If you find better links than the ones listed, then feel free to change them to your liking. And although they are not persistant, any links found no longer working will be removed and replaced on a version change.
 
 A separate page has been created to list the default sites found in the app, as well as to list new ones as found.
+
+If you have or find other working links, please notifiy me so that they can be added to or replace existing links.
 
 
 
