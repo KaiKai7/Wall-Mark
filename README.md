@@ -2,6 +2,7 @@
 
 
 ###   A simple app that ssists you in reading paywall articles on the internet.
+Instructions found here : https://github.com/KaiKai7/Wall-Mark/blob/main/Instructions.md
 
 * Uses already existing sites to read paywall articles.
 
