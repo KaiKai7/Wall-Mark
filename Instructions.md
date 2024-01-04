@@ -22,7 +22,7 @@ The Lite version of Wall Mark is an ad sponsored version of the app.
 
 A version with ads helps me as a developer, and also enables me to offer a version free of charge.
 
-The Paid version does not have ads and is the full the version.
+The Paid version does not have ads and is the full version.
 
 New features may be offered in the paid version in the future.
 
