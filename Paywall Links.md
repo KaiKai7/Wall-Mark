@@ -8,7 +8,7 @@ Due to reasons beyond the control of the developer, these links may become inact
 
 New links will be listed here, as they are found/needed.
 
-Fell free to contact me or leave a comment regarding new, old or expired links.
+Feel free to contact me or leave a comment regarding new, old or expired links.
 
 • https://12ft.io
 Works by prepending to the target URL
