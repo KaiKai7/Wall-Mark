@@ -12,7 +12,7 @@ You can use the sites already listed in the app or temporarily change to a custo
 
 The link to read the article is copied to the clipboard when the corrosponding button is pressed.
 
-Link can be shared to a browser to view, no proprietary viewer or account to view.
+Links can be shared to a browser to view, no proprietary viewer or account to view.
 
 You dont need an account for this app, and the app does not use the information entered by the user.
 
