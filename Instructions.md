@@ -41,6 +41,10 @@ For example, make sure to include the complete url like this https://example.com
 
 Typing only example.com will result in an error due to improper formatting.
 
+Another easier way to view the paywalled link, is to share it directly to the Wall Mark app.
+
+This makes opening Wall Mark and then pasting the link unnecessary, as it is automatic.
+
 ### Step 2
 
 * Decide which link you will use from the six listed. 
@@ -55,24 +59,20 @@ Typing only example.com will result in an error due to improper formatting.
 
 * The easiest way to now use this link to view the paywalled article, is to share to your browser.
 
-* Sharing to the browser will then attempt to open the article with the link chosen.
+* Sharing to the browser will then attempt to open the link for you.
 
 * If the link was successful, you will be able to view the article.
 
 * If the link was not successful, then go back to the app and try one of the other five remaining links.
 
-* If trying all available link options the site does not open correctly, then it is probably due to the way the site is coded and Wall Mark will not work.
+* If after trying all available link options the site does not open correctly, then it is probably due to the way the site is coded and Wall Mark will not work.
   
 
 ## Adding or Changing Links
 
-The links that are listed in the app can be changed or edited.
-
-This means that if the site listed becomes inactive, the link can be changed.
+The links that are listed in the app can be temporarily changed. This was done to be able to test new links if any of the existing are down for any reason.
 
 The changes you make are not persistant and will revert back to the default when the app is restarted. This way you do not have to remember what it used to be if you wished to revert.
-
-If you find better links than the ones listed, then feel free to change them to your liking. And although they are not persistant, any links found no longer working will be removed and replaced on a version change.
 
 A separate page has been created to list the default sites found in the app, as well as to list new ones as found.
 
